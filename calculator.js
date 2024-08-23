@@ -352,7 +352,7 @@ $(document).ready(function() {
 		if (!worstCRate) {
 			$("#worst-sign").css("color", "#8a8a8a");
 		} else {
-			$("#worst-sign").css("color", "#000000");
+			$("#worst-sign").css("color", "#ffffff");
 		}
 
 		reCalculateValues();
@@ -374,7 +374,7 @@ $(document).ready(function() {
 		if (!worstCRate) {
 			$("#worst-sign-mobile").css("color", "#8a8a8a");
 		} else {
-			$("#worst-sign-mobile").css("color", "#000000");
+			$("#worst-sign-mobile").css("color", "#ffffff");
 		}
 		reCalculateValues();
 	});
@@ -395,7 +395,7 @@ $(document).ready(function() {
 		if (!moderateCRate) {
 			$("#moderate-sign").css("color", "#8a8a8a");
 		} else {
-			$("#moderate-sign").css("color", "#000000");
+			$("#moderate-sign").css("color", "#ffffff");
 		}
 		reCalculateValues();
 	});
@@ -416,7 +416,7 @@ $(document).ready(function() {
 		if (!moderateCRate) {
 			$("#moderate-sign-mobile").css("color", "#8a8a8a");
 		} else {
-			$("#moderate-sign-mobile").css("color", "#000000");
+			$("#moderate-sign-mobile").css("color", "#ffffff");
 		}
 		reCalculateValues();
 	});
@@ -437,7 +437,7 @@ $(document).ready(function() {
 		if (!bestCRate) {
 			$("#best-sign").css("color", "#8a8a8a");
 		} else {
-			$("#best-sign").css("color", "#000000");
+			$("#best-sign").css("color", "#ffffff");
 		}
 		reCalculateValues();
 	});
@@ -458,7 +458,7 @@ $(document).ready(function() {
 		if (!bestCRate) {
 			$("#best-sign-mobile").css("color", "#8a8a8a");
 		} else {
-			$("#best-sign-mobile").css("color", "#000000");
+			$("#best-sign-mobile").css("color", "#ffffff");
 		}
 		reCalculateValues();
 	});
@@ -485,7 +485,7 @@ $(document).ready(function() {
 		if (!winRate) {
 			$("#rate-sign").css("color", "#8a8a8a");
 		} else {
-			$("#rate-sign").css("color", "#000000");
+			$("#rate-sign").css("color", "#ffffff");
 		}
 		reCalculateValues();
 	});
@@ -506,7 +506,7 @@ $(document).ready(function() {
 		if (!revenue) {
 			$("#revenue-sign").css("color", "#8a8a8a");
 		} else {
-			$("#revenue-sign").css("color", "#000000");
+			$("#revenue-sign").css("color", "#ffffff");
 		}
 		reCalculateValues();
 	});
@@ -517,7 +517,7 @@ $(document).ready(function() {
 		if (!cpc) {
 			$("#cpc-sign").css("color", "#8a8a8a");
 		} else {
-			$("#cpc-sign").css("color", "#000000");
+			$("#cpc-sign").css("color", "#ffffff");
 		}
 		reCalculateValues();
 	});
